@@ -62,7 +62,23 @@ Part 4: We Created a REST API Gateway to expose the Lambda function to the Websi
 
 ![alt text](<Bilder/Screenshot (296).png>)
 
-11. 
+11.  Lambda function does not have permission to update the DynamoDB table.
+
+![alt text](<Bilder/Screenshot (297).png>)
+
+12. Assign the permission to the Lambda Function.
+
+![alt text](<Bilder/Screenshot (298).png>)
+
+13. Connect Website html Frontend to Working API 
+
+![alt text](<Bilder/Screenshot (300).png>)
+
+14. Check Visitor Count on The Website. 
+
+![alt text](<Bilder/Screenshot (301).png>)
+
+15. Success
 
 
 
